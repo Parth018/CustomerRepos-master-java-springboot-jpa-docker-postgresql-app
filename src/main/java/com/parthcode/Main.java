@@ -65,6 +65,7 @@ public class Main {
     public void deleteCustomer(@PathVariable("customerID") Integer id){
         customerRepository.deleteById(id);
     }
+   
     @PutMapping("{customerID}")
     public void updateCustomer(@PathVariable("customerID") Integer id, @RequestBody NewcustomerRequest request){
         Optional<Customer> optionalCustomer = customerRepository.findById(id);
@@ -75,7 +76,7 @@ public class Main {
             customer.setAge(request.age);
             customerRepository.save(customer);
         } else {
-
+            // customerRepository.find(customer);
             // Handle case when customer is not found with given ID
             // You may throw an exception or return an appropriate response
         }
