@@ -6,6 +6,7 @@ import java.util.Objects;
 
 @Entity
 public class Customer {
+    
     @Id
     @SequenceGenerator(
             name = "customer_id_sequence",
