@@ -1,4 +1,38 @@
-# Read Me First
+# Read Me First 
+
+A brief description of the project is here.
+
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- JPA (Java Persistence API)
+- Docker
+- PostgreSQL
+
+## Installation
+
+Provide instructions on how to install your project. Include any dependencies that need to be installed and any specific steps that need to be taken.
+
+### Prerequisites
+
+- Docker installed on your machine
+
+### Steps
+
+1. Clone the repository:
+
+```bash
+$ git clone https://github.com/yourusername/yourproject.git
+
 The following was discovered as part of building this project:
 
 * The original package name 'com.example.spring-boot-app' is invalid and this project uses 'com.example.springbootapp' instead.
