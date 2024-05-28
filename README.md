@@ -14,7 +14,7 @@ A brief description of the project is here.
 
 - Java
 - Spring Boot
-- JPA (Java Persistence API)
+- JPA(Java Persistence API)
 - Docker
 - PostgreSQL
 
