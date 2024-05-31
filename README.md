@@ -20,11 +20,11 @@ A brief description of the project is here.
 
 ## Installation
 
-Provide instructions on how to install your project. Include any dependencies that need to be installed and-any specific steps that need to be taken.
+Provide instructions on how to install your project.Include any dependencies that need to be installed and-any specific steps that need to be taken.
 
 ### Prerequisites
 
-- Docker installed on your machine
+- Docker installed on your machine.
 
 ### Steps
 
