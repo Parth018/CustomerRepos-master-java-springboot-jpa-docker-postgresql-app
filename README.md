@@ -24,7 +24,7 @@ Provide instructions on how to install your project.Include any dependencies tha
 
 ### Prerequisites
 
-- Docker installed on your machine.
+- Docker installed on the machine.
 
 ### Steps
 
