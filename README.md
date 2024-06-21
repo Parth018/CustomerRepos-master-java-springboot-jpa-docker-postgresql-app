@@ -16,11 +16,11 @@ A brief description of the project is here.
 - Spring Boot
 - JPA(Java Persistence API)
 - Docker
-- PostgreSQL
+- Postgre SQL
 
 ## Installation
 
-Provide instructions on how to install your project.Include any dependencies that need to be installed and-any specific steps-that need to be taken.
+Provide instructions on how to install the project. Include any dependencies that need to be installed and any specific steps-that need to be taken.
 
 ### Prerequisites
 
