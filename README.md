@@ -28,12 +28,12 @@ Provide instructions on how to install the project. Include any dependencies tha
 
 ### Steps
 
-1. Clone the repository:
+1. Clone this repository:
 
 ```bash
 $ git clone https://github.com/yourusername/yourproject.git
 
-The following was discovered as part of building this project:
+The following was discovered, as part of building this project:
 
 * The original package name 'com.example.spring-boot-app' is invalid and this,project uses-'com.example.springbootapp' instead.
 
