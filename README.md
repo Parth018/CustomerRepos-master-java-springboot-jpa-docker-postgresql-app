@@ -41,7 +41,7 @@ The following was discovered, as part of building this project:
 # Getting Started --
 
 ### Reference Documentation
-For further reference, please consider this following sections:
+For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation]-- (https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.4/maven-plugin/reference/html/)
@@ -52,7 +52,7 @@ For further reference, please consider this following sections:
 
 The following guides illustrate how to use some features concretely:
 
-* [Building a RESTful Web-Service](https://spring.io/guides/gs/rest-service/)
+* [Building a RESTful Web_Service](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with_Spring-MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST API services with Spring](https://spring.io/guides/tutorials/rest/)
 
