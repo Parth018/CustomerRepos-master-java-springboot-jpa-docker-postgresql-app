@@ -35,7 +35,7 @@ $ git clone https://github.com/yourusername/yourproject.git
 
 The following was discovered, as part of building this project:
 
-* The original package name 'com.example.spring-boot-app' is invalid & this,project uses-'com.example.springbootapp' instead.
+* Please use 'com.example.springbootapp' after you install it on your machine.
 
 
 # Getting Started --
