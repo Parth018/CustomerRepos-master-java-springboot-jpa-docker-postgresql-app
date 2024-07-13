@@ -13,18 +13,18 @@ A brief description of the project is here.
 ## Technologies Used
 
 - Java
-- Spring Boot
+- Spring-Boot
 - JPA(Java Persistence API)
 - Docker
-- Postgre SQL
+- PostgreSQL
 
 ## Installation
 
-Provide instructions on how to install the project. Include any dependencies that need to be installed and any specific steps-that need to be taken.
+Provide instructions on how to install the project. Include any dependencies that need to be installed and any specific steps that needs to be taken.
 
 ### Prerequisites
 
-- Docker installed on the machine.
+- Docker installed on a machine.
 
 ### Steps
 
